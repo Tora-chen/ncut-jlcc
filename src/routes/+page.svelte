@@ -11,10 +11,7 @@
 <Drawer />
 
 <!-- Hero -->
-<div
-  class="hero min-h-screen"
-  style="background-image: url('/src/lib/assets/sushe.webp');"
->
+<div class="hero min-h-screen" style="background-image: url('/sushe.webp');">
   <div
     class="hero-content text-left p-0 flex justify-start items-start w-full h-full"
   >

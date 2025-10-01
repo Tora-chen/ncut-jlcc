@@ -4,11 +4,7 @@
 
 <footer class="footer sm:footer-horizontal bg-base-100 text-base-content p-10">
   <aside class="flex items-center gap-4">
-    <img
-      src="/src/lib/assets/logo.png"
-      alt="logo"
-      class="h-14 w-14 object-contain"
-    />
+    <img src="/logo.png" alt="logo" class="h-14 w-14 object-contain" />
     <p>
       <span>© 2025 NCUT 日语社</span><br />
       <span class="text-sm"

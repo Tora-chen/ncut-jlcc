@@ -25,7 +25,7 @@
     <div class="flex items-center gap-2">
       <a href="/">
         <img
-          src="/src/lib/assets/logo.png"
+          src="/logo.png"
           alt="logo"
           class="
            h-10 w-10 object-contain"
