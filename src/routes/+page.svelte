@@ -15,28 +15,24 @@
   <div
     class="hero-content text-left p-0 flex justify-start items-start w-full h-full"
   >
-    <div
-      class="max-w-md pl-8 pt-8 sm:pl-12 sm:pt-12 md:pl-16 md:pt-16 text-left"
-    >
-      <h1 class="mb-3 text-4xl md:text-5xl font-bold tracking-tight">
+    <div class="max-w-md px-12 py-12 text-left">
+      <h1 class="mb-3 text-5xl font-medium">
         <span
-          class="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent drop-shadow-md"
+          class=" relative right-[2px] bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent"
           >北方工大日语社</span
         >
       </h1>
-      <h2
-        class="text-lg md:text-xl font-medium text-primary-content drop-shadow"
-      >
-        北方工大日本語サークル
-      </h2>
-      <h2
-        class="mb-4 text-lg md:text-xl font-medium text-primary-content drop-shadow"
-      >
-        Japanese Language and Culture Club at North China University of
-        Technology
+      <h2 class="text-xl text-primary-content">北方工大日本語サークル</h2>
+      <h2 class="mb-4 text-lg text-primary-content">
+        <span class="text-primary text-2xl relative top-[1px]">J</span>apanese
+        <span class="text-primary text-2xl relative top-[1px]">L</span>anguage
+        and
+        <span class="text-primary text-2xl relative top-[1px]">C</span>ulture
+        <span class="text-primary text-2xl relative top-[1px]">C</span>lub at
+        NCUT
       </h2>
       <blockquote
-        class="mb-6 text-base md:text-lg italic text-primary-content border-l-4 border-primary pl-4"
+        class="mb-6 text-base md:text-lg italic text-accent-content border-l-4 pl-4"
       >
         语言是我们所知的最庞大、最广博的艺术，是一代代人无意识地创造出的宏伟而无名的作品。<br
         />
@@ -53,7 +49,7 @@
   class="w-full bg-gradient-to-br from-blue-50 to-accent py-12 px-4 md:px-0"
 >
   <div class="max-w-2xl mx-auto">
-    <h2 class="text-4xl font-bold m-10 text-primary">在这里，你可以——</h2>
+    <h2 class="text-3xl font-semibold m-10 text-primary">在这里，你可以——</h2>
     <ul
       class="list-disc pl-6 space-y-6 text-lg md:text-md mx-10 text-base-content/90"
     >
