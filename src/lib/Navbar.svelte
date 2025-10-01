@@ -37,7 +37,8 @@
     </div>
   </div>
   <div class="flex-none flex items-center gap-2">
-    <span class="text-sm text-base-content/60 select-none italic"
+    <span
+      class="hidden sm:inline text-sm text-base-content/60 select-none italic"
       >在我们的社交媒体上了解更多! --&gt;</span
     >
     <nav>
