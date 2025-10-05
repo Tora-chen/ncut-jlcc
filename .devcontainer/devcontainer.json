@@ -9,7 +9,7 @@
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "sudo apk update && sudo apk add git-lfs && git lfs install && npm install",
+  "postCreateCommand": "sudo apt update && sudo apt install git-lfs && git lfs install && npm install",
   // Configure tool-specific properties.
   "customizations": {
     "vscode": {
