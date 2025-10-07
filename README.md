@@ -1,6 +1,6 @@
 # NCUT 日语社
 
-北方工业大学日语社网站, 使用 [`svelte`](https://github.com/sveltejs/cli) 开发。
+北方工业大学日语社网站, 使用 [`svelte`](https://svelte.dev/) 开发。
 
 ## 快速开始
 
@@ -97,4 +97,5 @@ npm run preview
 [Vercel↗](https://vercel.com/)
 
 [Edge One↗](https://www.tencentcloud.com/products/edgeone)
+
 
