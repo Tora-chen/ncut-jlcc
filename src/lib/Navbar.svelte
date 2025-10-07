@@ -3,7 +3,8 @@
 </script>
 
 <div class="navbar bg-base-100 shadow-sm">
-  <div class="flex-none">
+  <!-- 侧边栏按钮 -->
+  <!-- <div class="flex-none">
     <label for="my-drawer" class="btn btn-square btn-ghost">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -19,7 +20,7 @@
         ></path>
       </svg>
     </label>
-  </div>
+  </div> -->
 
   <div class="flex-1">
     <div class="flex items-center gap-2">
