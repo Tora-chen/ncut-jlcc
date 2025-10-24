@@ -1,8 +1,14 @@
 <script>
   import { page } from "$app/stores";
+  import { onMount } from "svelte";
 
-  $: keyValue = $page.url.searchParams.get("key") ?? "";
-  $: keyChars = keyValue ? keyValue.split("") : [];
+  let keyValue = "";
+  let keyChars = [];
+
+  onMount(() => {
+    keyValue = $page.url.searchParams.get("key") ?? "";
+    keyChars = keyValue ? keyValue.split("") : [];
+  });
 </script>
 
 <div class="min-h-screen bg-base-200 flex items-center justify-center">
